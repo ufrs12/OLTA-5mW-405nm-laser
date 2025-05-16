@@ -23,5 +23,5 @@ flowchart
 
 ### Оверклокинг
 <p align="center">
- <img width="400px" src/pics/scheme.svg" alt="qr"/>
+ <img width="400px" src="src/pics/scheme.svg" alt="qr"/>
 </p>
