@@ -37,3 +37,14 @@ flowchart
 1. Защита от переполюсовки и кнопка.
 2. Блок питания DC/DC-преобразователь повышающий с 3 Вольт на 8 Вольт.
 3. Токовый драйвер лазера и сам лазер.
+
+Сдуваем первые две и получаем следующее:
+<p align="center">
+ <img width="700px" src="src/pics/bot.png" alt="qr"/>
+</p>
+
+<p align="center">
+ <img width="700px" src="src/pics/top.png" alt="qr"/>
+</p>
+
+
