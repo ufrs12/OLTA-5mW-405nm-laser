@@ -26,3 +26,14 @@ flowchart
 <p align="center">
  <img width="700px" src="src/pics/scheme.svg" alt="qr"/>
 </p>
+
+### ШИМ-регулирование
+
+Условно схему можно разделить на три блока:
+<p align="center">
+ <img width="700px" src="src/pics/scheme_blocks.svg" alt="qr"/>
+</p>
+
+1. Защита от переполюсовки и кнопка.
+2. Блок питания DC/DC-преобразователь повышающий с 3 Вольт на 8 Вольт.
+3. Токовый драйвер лазера и сам лазер.
