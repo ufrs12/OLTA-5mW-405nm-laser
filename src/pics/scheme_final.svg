@@ -1,0 +1,1942 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="282.14871"
+   height="206.03629"
+   viewBox="-10 -817 282.14871 206.03629"
+   version="1.1"
+   id="svg170"
+   sodipodi:docname="scheme_final.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs170" />
+  <sodipodi:namedview
+     id="namedview170"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false" />
+  <title
+     id="title1" />
+  <style
+     type="text/css"
+     id="style1">&#10;#g1 circle.pindot {fill: none;stroke: none;}#g1 rect, #g1 circle, #g1 ellipse, #g1 polyline, #g1 line, #g1 polygon, #g1 path {shape-rendering: crispEdges;}path, polyline, polygon {stroke-linejoin:round;}&#10;rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges;}&#10;</style>
+  <rect
+     x="-10"
+     y="-817"
+     width="282.14868"
+     height="206.03627"
+     fill="#333333"
+     stroke="none"
+     id="rect1"
+     style="stroke-width:0.245202" />
+  <g
+     c_partid="part_netLabel_gnD"
+     c_etype="pinpart"
+     c_origin="335,-450"
+     id="gge826"
+     c_shapetype="group"
+     c_rotation="0"
+     transform="translate(-221.40448,-270.63349)">
+    <text
+       x="322"
+       y="-424"
+       font-family="'Times New Roman'"
+       font-size="12px"
+       fill="#999999"
+       text-anchor="start"
+       id="text48">GND</text>
+    <polyline
+       points="335 -440 335 -450"
+       stroke="#999999"
+       id="gge838"
+       stroke-width="1"
+       fill="none"
+       stroke-linecap="round" />
+    <polyline
+       points="326 -440 344 -440"
+       stroke="#999999"
+       id="gge841"
+       stroke-width="1"
+       fill="none"
+       stroke-linecap="round" />
+    <polyline
+       points="329 -438 341 -438"
+       stroke="#999999"
+       id="gge844"
+       stroke-width="1"
+       fill="none"
+       stroke-linecap="round" />
+    <polyline
+       points="332 -436 338 -436"
+       stroke="#999999"
+       id="gge847"
+       stroke-width="1"
+       fill="none"
+       stroke-linecap="round" />
+    <polyline
+       points="334 -434 336 -434"
+       stroke="#999999"
+       id="gge850"
+       stroke-width="1"
+       fill="none"
+       stroke-linecap="round" />
+  </g>
+  <g
+     c_partid="part_annotation"
+     id="gge1286"
+     transform="translate(-506.4004,-259.88741)">
+    <text
+       c_note="note_pre"
+       x="635"
+       y="-511.26001"
+       fill="#999999"
+       font-family="Arial"
+       font-size="9.33333px"
+       font-weight=""
+       font-style=""
+       dominant-baseline=""
+       text-anchor="start"
+       id="text56">Q2</text>
+  </g>
+  <polygon
+     points="610,-515 616,-517 616,-513 "
+     stroke="#999999"
+     id="gge1292"
+     stroke-width="1"
+     fill="#666666"
+     stroke-linecap="round"
+     transform="matrix(1,0,0,-1,-506.4004,-1288.6874)" />
+  <polygon
+     points="630,-512 627,-517 633,-517 "
+     stroke="#999999"
+     id="gge1295"
+     stroke-width="1"
+     fill="#666666"
+     stroke-linecap="round"
+     transform="matrix(1,0,0,-1,-506.4004,-1288.6874)" />
+  <polyline
+     points="620 -525 630 -525 630 -517"
+     stroke="#999999"
+     id="gge1298"
+     stroke-width="1"
+     fill="none"
+     stroke-linecap="round"
+     transform="matrix(1,0,0,-1,-506.4004,-1288.6874)" />
+  <polyline
+     points="620 -508 620 -505 630 -505 630 -512"
+     stroke="#999999"
+     id="gge1301"
+     stroke-width="1"
+     fill="none"
+     stroke-linecap="round"
+     transform="matrix(1,0,0,-1,-506.4004,-1288.6874)" />
+  <polyline
+     points="620 -508 610 -508"
+     stroke="#999999"
+     id="gge1304"
+     stroke-width="1"
+     fill="none"
+     stroke-linecap="round"
+     transform="matrix(1,0,0,-1,-506.4004,-1288.6874)" />
+  <polyline
+     points="610 -515 620 -515 620 -525"
+     stroke="#999999"
+     id="gge1307"
+     stroke-width="1"
+     fill="none"
+     stroke-linecap="round"
+     transform="matrix(1,0,0,-1,-506.4004,-1288.6874)" />
+  <polyline
+     points="620 -522 610 -522"
+     stroke="#999999"
+     id="gge1310"
+     stroke-width="1"
+     fill="none"
+     stroke-linecap="round"
+     transform="matrix(1,0,0,-1,-506.4004,-1288.6874)" />
+  <polyline
+     points="608 -506 608 -524"
+     stroke="#999999"
+     id="gge1313"
+     stroke-width="1"
+     fill="none"
+     stroke-linecap="round"
+     transform="matrix(1,0,0,-1,-506.4004,-1288.6874)" />
+  <polyline
+     points="610 -510 610 -506"
+     stroke="#999999"
+     id="gge1316"
+     stroke-width="1"
+     fill="none"
+     stroke-linecap="round"
+     transform="matrix(1,0,0,-1,-506.4004,-1288.6874)" />
+  <polyline
+     points="610 -517 610 -513"
+     stroke="#999999"
+     id="gge1319"
+     stroke-width="1"
+     fill="none"
+     stroke-linecap="round"
+     transform="matrix(1,0,0,-1,-506.4004,-1288.6874)" />
+  <polyline
+     points="610 -524 610 -520"
+     stroke="#999999"
+     id="gge1322"
+     stroke-width="1"
+     fill="none"
+     stroke-linecap="round"
+     transform="matrix(1,0,0,-1,-506.4004,-1288.6874)" />
+  <polyline
+     points="600 -515 608 -515"
+     stroke="#999999"
+     id="gge1325"
+     stroke-width="1"
+     fill="none"
+     stroke-linecap="round"
+     transform="matrix(1,0,0,-1,-506.4004,-1288.6874)" />
+  <polyline
+     points="627 -512 628 -512 632 -512 633 -512"
+     stroke="#999999"
+     id="gge1328"
+     stroke-width="1"
+     fill="none"
+     stroke-linecap="round"
+     transform="matrix(1,0,0,-1,-506.4004,-1288.6874)" />
+  <g
+     c_partid="part_pin"
+     c_etype="pinpart"
+     c_show="show"
+     c_elec="0"
+     c_spicepin="3"
+     c_origin="620,-495"
+     id="gge1331"
+     c_rotation="270"
+     transform="matrix(1,0,0,-1,-506.4004,-1288.6874)">
+    <path
+       d="m 620,-495 v -10"
+       fill="none"
+       stroke="#999999"
+       stroke-width="1"
+       id="path56" />
+    <text
+       x="623"
+       y="-508"
+       font-family="Verdana"
+       font-size="9.33333px"
+       fill="#999999"
+       text-anchor="start"
+       display="none"
+       transform="rotate(-90,623,-508)"
+       id="text57">D</text>
+    <text
+       x="619"
+       y="-504"
+       font-family="Verdana"
+       font-size="9.33333px"
+       fill="#999999"
+       text-anchor="end"
+       display="none"
+       transform="rotate(-90,619,-504)"
+       id="text58">3</text>
+    <circle
+       cx="620"
+       cy="-502"
+       r="3"
+       stroke="#999999"
+       fill="none"
+       stroke-width="1"
+       display="none"
+       id="circle58" />
+    <path
+       d="m 623,-505 -3,-3 -3,3"
+       fill="none"
+       stroke="#999999"
+       stroke-width="1"
+       display="none"
+       id="path58" />
+  </g>
+  <g
+     c_partid="part_pin"
+     c_etype="pinpart"
+     c_show="show"
+     c_elec="0"
+     c_spicepin="1"
+     c_origin="590,-515"
+     id="gge1352"
+     c_rotation="180"
+     transform="matrix(1,0,0,-1,-506.4004,-1288.6874)">
+    <path
+       d="m 590,-515 h 10"
+       fill="none"
+       stroke="#999999"
+       stroke-width="1"
+       id="path59" />
+    <text
+       x="603"
+       y="-512"
+       font-family="Verdana"
+       font-size="9.33333px"
+       fill="#999999"
+       text-anchor="start"
+       display="none"
+       id="text59">G</text>
+    <text
+       x="599"
+       y="-516"
+       font-family="Verdana"
+       font-size="9.33333px"
+       fill="#999999"
+       text-anchor="end"
+       display="none"
+       id="text60">1</text>
+    <circle
+       cx="597"
+       cy="-515"
+       r="3"
+       stroke="#999999"
+       fill="none"
+       stroke-width="1"
+       display="none"
+       id="circle60" />
+    <path
+       d="m 600,-512 3,-3 -3,-3"
+       fill="none"
+       stroke="#999999"
+       stroke-width="1"
+       display="none"
+       id="path60" />
+  </g>
+  <g
+     c_partid="part_pin"
+     c_etype="pinpart"
+     c_show="show"
+     c_elec="0"
+     c_spicepin="2"
+     c_origin="620,-535"
+     id="gge1373"
+     c_rotation="90"
+     transform="matrix(1,0,0,-4.5520516,-506.4004,-3153.5145)">
+    <path
+       d="m 620,-535 v 10"
+       fill="none"
+       stroke="#999999"
+       stroke-width="1"
+       id="path61" />
+    <text
+       x="623"
+       y="-522"
+       font-family="Verdana"
+       font-size="9.33333px"
+       fill="#999999"
+       text-anchor="end"
+       display="none"
+       transform="rotate(-90,623,-522)"
+       id="text61">S</text>
+    <text
+       x="619"
+       y="-526"
+       font-family="Verdana"
+       font-size="9.33333px"
+       fill="#999999"
+       text-anchor="start"
+       display="none"
+       transform="rotate(-90,619,-526)"
+       id="text62">2</text>
+    <circle
+       cx="620"
+       cy="-528"
+       r="3"
+       stroke="#999999"
+       fill="none"
+       stroke-width="1"
+       display="none"
+       id="circle62" />
+    <path
+       d="m 617,-525 3,3 3,-3"
+       fill="none"
+       stroke="#999999"
+       stroke-width="1"
+       display="none"
+       id="path62" />
+  </g>
+  <g
+     c_partid="part_pin"
+     c_etype="pinpart"
+     c_show="show"
+     c_elec="0"
+     c_spicepin="2"
+     c_origin="620,-535"
+     id="gge1373-0"
+     c_rotation="90"
+     transform="matrix(0.63040618,0,0,-0.93859971,-288.9735,-1233.7017)">
+    <path
+       d="m 591.35658,-532.18382 47.02542,-2.1e-4"
+       fill="none"
+       stroke="#999999"
+       stroke-width="0.992969"
+       id="path61-3"
+       style="stroke-linejoin:round;shape-rendering:crispEdges"
+       inkscape:transform-center-x="-0.69001015"
+       inkscape:transform-center-y="2.2069752" />
+    <text
+       x="623"
+       y="-522"
+       font-family="Verdana"
+       font-size="9.33333px"
+       fill="#999999"
+       text-anchor="end"
+       display="none"
+       transform="rotate(-90,623,-522)"
+       id="text61-9">S</text>
+    <text
+       x="619"
+       y="-526"
+       font-family="Verdana"
+       font-size="9.33333px"
+       fill="#999999"
+       text-anchor="start"
+       display="none"
+       transform="rotate(-90,619,-526)"
+       id="text62-0">2</text>
+    <circle
+       cx="620"
+       cy="-528"
+       r="3"
+       stroke="#999999"
+       fill="none"
+       stroke-width="1"
+       display="none"
+       id="circle62-9"
+       style="shape-rendering:crispEdges" />
+    <path
+       d="m 617,-525 3,3 3,-3"
+       fill="none"
+       stroke="#999999"
+       stroke-width="1"
+       display="none"
+       id="path62-5"
+       style="stroke-linejoin:round;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pin"
+     c_etype="pinpart"
+     c_show="show"
+     c_elec="0"
+     c_spicepin="2"
+     c_origin="620,-535"
+     id="gge1373-0-5"
+     c_rotation="90"
+     transform="matrix(1.5305117,0,0,-0.93769206,-791.98677,-1292.293)">
+    <path
+       d="m 591.35658,-532.18382 47.02542,-2.1e-4"
+       fill="none"
+       stroke="#999999"
+       stroke-width="0.992969"
+       id="path61-3-2"
+       style="stroke-linejoin:round;shape-rendering:crispEdges"
+       inkscape:transform-center-x="-0.69001015"
+       inkscape:transform-center-y="2.2069752" />
+    <text
+       x="623"
+       y="-522"
+       font-family="Verdana"
+       font-size="9.33333px"
+       fill="#999999"
+       text-anchor="end"
+       display="none"
+       transform="rotate(-90,623,-522)"
+       id="text61-9-7">S</text>
+    <text
+       x="619"
+       y="-526"
+       font-family="Verdana"
+       font-size="9.33333px"
+       fill="#999999"
+       text-anchor="start"
+       display="none"
+       transform="rotate(-90,619,-526)"
+       id="text62-0-5">2</text>
+    <circle
+       cx="620"
+       cy="-528"
+       r="3"
+       stroke="#999999"
+       fill="none"
+       stroke-width="1"
+       display="none"
+       id="circle62-9-7"
+       style="shape-rendering:crispEdges" />
+    <path
+       d="m 617,-525 3,3 3,-3"
+       fill="none"
+       stroke="#999999"
+       stroke-width="1"
+       display="none"
+       id="path62-5-1"
+       style="stroke-linejoin:round;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_origin="785,-620"
+     c_para="package`SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR`Contributor`lcsc`Supplier`LCSC`Supplier Part`C5120747`Manufacturer`MSKSEMI(美森科)`Manufacturer Part`SS8550-MS`JLCPCB Part Class`Extended Part`spicePre`U`spiceSymbolName`SS8550-MS`"
+     c_partid="part_import_gge22b111d636860032"
+     id="gge22b111d636860032"
+     c_shapetype="group"
+     c_etype="pinpart"
+     transform="translate(-550.42458,-53.252562)">
+    <g
+       c_partid="part_annotation"
+       id="gge3770">
+      <text
+         c_note="note_name"
+         x="789"
+         y="-607.71997"
+         fill="#999999"
+         font-family="Arial"
+         font-size="9.33333px"
+         font-weight=""
+         font-style=""
+         dominant-baseline=""
+         text-anchor="start"
+         id="text108">S8550</text>
+    </g>
+    <g
+       c_partid="part_annotation"
+       id="gge3776">
+      <text
+         c_note="note_pre"
+         x="789"
+         y="-616.94"
+         fill="#999999"
+         font-family="Arial"
+         font-size="9.33333px"
+         font-weight=""
+         font-style=""
+         dominant-baseline=""
+         text-anchor="start"
+         id="text109">Q4</text>
+    </g>
+    <polygon
+       points="775,-617 778,-612 781,-616 "
+       stroke="#999999"
+       id="gge3782"
+       stroke-width="1"
+       fill="#666666"
+       stroke-linecap="round" />
+    <polyline
+       points="775 -629 775 -611"
+       stroke="#999999"
+       id="gge3785"
+       stroke-width="1"
+       fill="none"
+       stroke-linecap="round" />
+    <polyline
+       points="775 -617 785 -610"
+       stroke="#999999"
+       id="gge3788"
+       stroke-width="1"
+       fill="none"
+       stroke-linecap="round" />
+    <polyline
+       points="785 -630 775 -623"
+       stroke="#999999"
+       id="gge3791"
+       stroke-width="1"
+       fill="none"
+       stroke-linecap="round" />
+    <g
+       c_partid="part_pin"
+       c_etype="pinpart"
+       c_show="show"
+       c_elec="1"
+       c_spicepin="2"
+       c_origin="785,-600"
+       id="gge3794"
+       c_rotation="270">
+      <path
+         d="m 785,-600 v -10"
+         fill="none"
+         stroke="#999999"
+         stroke-width="1"
+         id="path109" />
+      <text
+         x="788"
+         y="-615"
+         font-family="Verdana"
+         font-size="9.33333px"
+         fill="#999999"
+         text-anchor="start"
+         display="none"
+         transform="rotate(-90,788,-615)"
+         id="text110">E</text>
+      <text
+         x="784"
+         y="-610"
+         font-family="Verdana"
+         font-size="9.33333px"
+         fill="#999999"
+         text-anchor="end"
+         display="none"
+         transform="rotate(-90,784,-610)"
+         id="text111">2</text>
+      <circle
+         cx="785"
+         cy="-607"
+         r="3"
+         stroke="#999999"
+         fill="none"
+         stroke-width="1"
+         display="none"
+         id="circle111" />
+      <path
+         d="m 788,-610 -3,-3 -3,3"
+         fill="none"
+         stroke="#999999"
+         stroke-width="1"
+         display="none"
+         id="path111" />
+    </g>
+    <g
+       c_partid="part_pin"
+       c_etype="pinpart"
+       c_show="show"
+       c_elec="1"
+       c_spicepin="3"
+       c_origin="785,-640"
+       id="gge3815"
+       c_rotation="90">
+      <path
+         d="m 785,-640 v 10"
+         fill="none"
+         stroke="#999999"
+         stroke-width="1"
+         id="path112" />
+      <text
+         x="788"
+         y="-625"
+         font-family="Verdana"
+         font-size="9.33333px"
+         fill="#999999"
+         text-anchor="end"
+         display="none"
+         transform="rotate(-90,788,-625)"
+         id="text112">C</text>
+      <text
+         x="784"
+         y="-630"
+         font-family="Verdana"
+         font-size="9.33333px"
+         fill="#999999"
+         text-anchor="start"
+         display="none"
+         transform="rotate(-90,784,-630)"
+         id="text113">3</text>
+      <circle
+         cx="785"
+         cy="-633"
+         r="3"
+         stroke="#999999"
+         fill="none"
+         stroke-width="1"
+         display="none"
+         id="circle113" />
+      <path
+         d="m 782,-630 3,3 3,-3"
+         fill="none"
+         stroke="#999999"
+         stroke-width="1"
+         display="none"
+         id="path113" />
+    </g>
+    <g
+       c_partid="part_pin"
+       c_etype="pinpart"
+       c_show="show"
+       c_elec="1"
+       c_spicepin="1"
+       c_origin="765,-620"
+       id="gge3836"
+       c_rotation="180">
+      <path
+         d="m 765,-620 h 10"
+         fill="none"
+         stroke="#999999"
+         stroke-width="1"
+         id="path114" />
+      <text
+         x="780"
+         y="-617"
+         font-family="Verdana"
+         font-size="9.33333px"
+         fill="#999999"
+         text-anchor="start"
+         display="none"
+         id="text114">B</text>
+      <text
+         x="775"
+         y="-621"
+         font-family="Verdana"
+         font-size="9.33333px"
+         fill="#999999"
+         text-anchor="end"
+         display="none"
+         id="text115">1</text>
+      <circle
+         cx="772"
+         cy="-620"
+         r="3"
+         stroke="#999999"
+         fill="none"
+         stroke-width="1"
+         display="none"
+         id="circle115" />
+      <path
+         d="m 775,-617 3,-3 -3,-3"
+         fill="none"
+         stroke="#999999"
+         stroke-width="1"
+         display="none"
+         id="path115" />
+    </g>
+  </g>
+  <polyline
+     c_etype="wire"
+     c_shapetype="line"
+     points="685 -580 785 -580 785 -600"
+     stroke="#999999"
+     id="gge3950"
+     stroke-width="1"
+     fill="none"
+     stroke-linecap="round"
+     transform="matrix(1.1984529,0,0,0.99538939,-706.2562,-55.972819)" />
+  <g
+     c_origin="735,-600"
+     c_para="package`R0603`Contributor`lcsc`nameAlias`Value`Supplier`LCSC`Supplier Part`C5123580`Manufacturer`Milliohm(毫欧)`Manufacturer Part`HoAR0603-1/10W-100R-0.1%-TCR25`JLCPCB Part Class`Extended Part`spicePre`U`spiceSymbolName`HOAR0603-1/10W-100R-0.1%-TCR25`"
+     c_partid="part_import_gge2b74ba4aeaae3a0d"
+     id="gge2b74ba4aeaae3a0d"
+     c_shapetype="group"
+     c_etype="pinpart"
+     c_rotation="270"
+     transform="translate(-550.42458,-53.252562)">
+    <g
+       c_partid="part_annotation"
+       id="gge3963">
+      <text
+         c_note="note_name"
+         x="742"
+         y="-587.65002"
+         fill="#999999"
+         font-family="Arial"
+         font-size="9.33333px"
+         font-weight=""
+         font-style=""
+         dominant-baseline=""
+         text-anchor="start"
+         id="text116">5R6</text>
+    </g>
+    <g
+       c_partid="part_annotation"
+       id="gge3969">
+      <text
+         c_note="note_pre"
+         x="742"
+         y="-596.71002"
+         fill="#999999"
+         font-family="Arial"
+         font-size="9.33333px"
+         font-weight=""
+         font-style=""
+         dominant-baseline=""
+         text-anchor="start"
+         id="text117">R4</text>
+    </g>
+    <rect
+       id="gge3975"
+       x="730"
+       y="-610"
+       width="10"
+       height="20"
+       stroke="#999999"
+       stroke-width="1"
+       fill="none" />
+    <g
+       c_partid="part_pin"
+       c_etype="pinpart"
+       c_show="show"
+       c_elec="0"
+       c_spicepin="2"
+       c_origin="735,-580"
+       id="gge3978"
+       c_rotation="270">
+      <path
+         d="m 735,-590 v 10"
+         fill="none"
+         stroke="#999999"
+         stroke-width="1"
+         id="path117" />
+      <text
+         x="735"
+         y="-594"
+         font-family="Verdana"
+         font-size="9.33333px"
+         fill="#999999"
+         text-anchor="start"
+         display="none"
+         transform="rotate(-90,735,-594)"
+         id="text118">2</text>
+      <text
+         x="731"
+         y="-586"
+         font-family="Verdana"
+         font-size="9.33333px"
+         fill="#999999"
+         text-anchor="end"
+         display="none"
+         transform="rotate(-90,731,-586)"
+         id="text119">2</text>
+      <circle
+         cx="735"
+         cy="-567"
+         r="3"
+         stroke="#999999"
+         fill="none"
+         stroke-width="1"
+         display="none"
+         id="circle119" />
+      <path
+         d="m 738,-570 -3,-3 -3,3"
+         fill="none"
+         stroke="#999999"
+         stroke-width="1"
+         display="none"
+         id="path119" />
+    </g>
+    <g
+       c_partid="part_pin"
+       c_etype="pinpart"
+       c_show="show"
+       c_elec="0"
+       c_spicepin="1"
+       c_origin="735,-620"
+       id="gge3999"
+       c_rotation="90">
+      <path
+         d="m 735,-610 v -10"
+         fill="none"
+         stroke="#999999"
+         stroke-width="1"
+         id="path120" />
+      <text
+         x="735"
+         y="-606"
+         font-family="Verdana"
+         font-size="9.33333px"
+         fill="#999999"
+         text-anchor="end"
+         display="none"
+         transform="rotate(-90,735,-606)"
+         id="text120">1</text>
+      <text
+         x="731"
+         y="-614"
+         font-family="Verdana"
+         font-size="9.33333px"
+         fill="#999999"
+         text-anchor="start"
+         display="none"
+         transform="rotate(-90,731,-614)"
+         id="text121">1</text>
+      <circle
+         cx="735"
+         cy="-633"
+         r="3"
+         stroke="#999999"
+         fill="none"
+         stroke-width="1"
+         display="none"
+         id="circle121" />
+      <path
+         d="m 732,-630 3,3 3,-3"
+         fill="none"
+         stroke="#999999"
+         stroke-width="1"
+         display="none"
+         id="path121" />
+    </g>
+  </g>
+  <g
+     c_partid="part_annotation"
+     id="gge3963-1"
+     transform="translate(-650.92963,-153.71689)">
+    <text
+       c_note="note_name"
+       x="742"
+       y="-587.65002"
+       fill="#999999"
+       font-family="Arial"
+       font-size="9.33333px"
+       font-weight=""
+       font-style=""
+       dominant-baseline=""
+       text-anchor="start"
+       id="text116-4">51K</text>
+  </g>
+  <g
+     c_partid="part_annotation"
+     id="gge3969-6"
+     transform="translate(-650.92963,-153.71689)">
+    <text
+       c_note="note_pre"
+       x="742"
+       y="-596.71002"
+       fill="#999999"
+       font-family="Arial"
+       font-size="9.33333px"
+       font-weight=""
+       font-style=""
+       dominant-baseline=""
+       text-anchor="start"
+       id="text117-9">R3</text>
+  </g>
+  <rect
+     id="gge3975-6"
+     x="79.070389"
+     y="-763.71686"
+     width="10"
+     height="20"
+     stroke="#999999"
+     stroke-width="1"
+     fill="none"
+     style="shape-rendering:crispEdges" />
+  <g
+     c_partid="part_pin"
+     c_etype="pinpart"
+     c_show="show"
+     c_elec="0"
+     c_spicepin="2"
+     c_origin="735,-580"
+     id="gge3978-8"
+     c_rotation="270"
+     transform="translate(-650.92963,-153.71689)">
+    <path
+       d="m 735,-590 v 10"
+       fill="none"
+       stroke="#999999"
+       stroke-width="1"
+       id="path117-8"
+       style="stroke-linejoin:round;shape-rendering:crispEdges" />
+    <text
+       x="735"
+       y="-594"
+       font-family="Verdana"
+       font-size="9.33333px"
+       fill="#999999"
+       text-anchor="start"
+       display="none"
+       transform="rotate(-90,735,-594)"
+       id="text118-4">2</text>
+    <text
+       x="731"
+       y="-586"
+       font-family="Verdana"
+       font-size="9.33333px"
+       fill="#999999"
+       text-anchor="end"
+       display="none"
+       transform="rotate(-90,731,-586)"
+       id="text119-2">2</text>
+    <circle
+       cx="735"
+       cy="-567"
+       r="3"
+       stroke="#999999"
+       fill="none"
+       stroke-width="1"
+       display="none"
+       id="circle119-3"
+       style="shape-rendering:crispEdges" />
+    <path
+       d="m 738,-570 -3,-3 -3,3"
+       fill="none"
+       stroke="#999999"
+       stroke-width="1"
+       display="none"
+       id="path119-9"
+       style="stroke-linejoin:round;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pin"
+     c_etype="pinpart"
+     c_show="show"
+     c_elec="0"
+     c_spicepin="1"
+     c_origin="735,-620"
+     id="gge3999-1"
+     c_rotation="90"
+     transform="translate(-650.92963,-153.71689)">
+    <path
+       d="m 735,-610 v -10"
+       fill="none"
+       stroke="#999999"
+       stroke-width="1"
+       id="path120-8"
+       style="stroke-linejoin:round;shape-rendering:crispEdges" />
+    <text
+       x="735"
+       y="-606"
+       font-family="Verdana"
+       font-size="9.33333px"
+       fill="#999999"
+       text-anchor="end"
+       display="none"
+       transform="rotate(-90,735,-606)"
+       id="text120-9">1</text>
+    <text
+       x="731"
+       y="-614"
+       font-family="Verdana"
+       font-size="9.33333px"
+       fill="#999999"
+       text-anchor="start"
+       display="none"
+       transform="rotate(-90,731,-614)"
+       id="text121-0">1</text>
+    <circle
+       cx="735"
+       cy="-633"
+       r="3"
+       stroke="#999999"
+       fill="none"
+       stroke-width="1"
+       display="none"
+       id="circle121-2"
+       style="shape-rendering:crispEdges" />
+    <path
+       d="m 732,-630 3,3 3,-3"
+       fill="none"
+       stroke="#999999"
+       stroke-width="1"
+       display="none"
+       id="path121-5"
+       style="stroke-linejoin:round;shape-rendering:crispEdges" />
+  </g>
+  <polyline
+     c_etype="wire"
+     c_shapetype="line"
+     points="765 -655 735 -655 735 -620 765 -620"
+     stroke="#999999"
+     id="gge4021"
+     stroke-width="1"
+     fill="none"
+     stroke-linecap="round"
+     transform="translate(-550.42458,-53.252562)" />
+  <g
+     c_origin="765,-675"
+     c_para="package`SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR`Contributor`lcsc`Supplier`LCSC`Supplier Part`C5120747`Manufacturer`MSKSEMI(美森科)`Manufacturer Part`SS8550-MS`JLCPCB Part Class`Extended Part`spicePre`U`spiceSymbolName`SS8550-MS`"
+     c_partid="part_import_ggec6474ffade02c123"
+     id="ggec6474ffade02c123"
+     c_shapetype="group"
+     c_etype="pinpart"
+     c_rotation="180"
+     transform="translate(-550.42458,-53.252562)">
+    <g
+       c_partid="part_annotation"
+       id="gge4037">
+      <text
+         c_note="note_name"
+         x="735.66998"
+         y="-680.15997"
+         fill="#999999"
+         font-family="Arial"
+         font-size="9.33333px"
+         font-weight=""
+         font-style=""
+         dominant-baseline=""
+         text-anchor="start"
+         id="text122">S8550</text>
+    </g>
+    <g
+       c_partid="part_annotation"
+       id="gge4043">
+      <text
+         c_note="note_pre"
+         x="735.66998"
+         y="-671.57001"
+         fill="#999999"
+         font-family="Arial"
+         font-size="9.33333px"
+         font-weight=""
+         font-style=""
+         dominant-baseline=""
+         text-anchor="start"
+         id="text123">Q5</text>
+    </g>
+    <polygon
+       points="775,-672 772,-667 769,-671 "
+       stroke="#999999"
+       id="gge4049"
+       stroke-width="1"
+       fill="#666666"
+       stroke-linecap="round" />
+    <polyline
+       points="775 -684 775 -666"
+       stroke="#999999"
+       id="gge4052"
+       stroke-width="1"
+       fill="none"
+       stroke-linecap="round" />
+    <polyline
+       points="775 -672 765 -665"
+       stroke="#999999"
+       id="gge4055"
+       stroke-width="1"
+       fill="none"
+       stroke-linecap="round" />
+    <polyline
+       points="765 -685 775 -678"
+       stroke="#999999"
+       id="gge4058"
+       stroke-width="1"
+       fill="none"
+       stroke-linecap="round" />
+    <g
+       c_partid="part_pin"
+       c_etype="pinpart"
+       c_show="show"
+       c_elec="1"
+       c_spicepin="2"
+       c_origin="765,-655"
+       id="gge4061"
+       c_rotation="270">
+      <path
+         d="m 765,-655 v -10"
+         fill="none"
+         stroke="#999999"
+         stroke-width="1"
+         id="path123" />
+      <text
+         x="768"
+         y="-670"
+         font-family="Verdana"
+         font-size="9.33333px"
+         fill="#999999"
+         text-anchor="start"
+         display="none"
+         transform="rotate(-90,768,-670)"
+         id="text124">E</text>
+      <text
+         x="764"
+         y="-665"
+         font-family="Verdana"
+         font-size="9.33333px"
+         fill="#999999"
+         text-anchor="end"
+         display="none"
+         transform="rotate(-90,764,-665)"
+         id="text125">2</text>
+      <circle
+         cx="765"
+         cy="-662"
+         r="3"
+         stroke="#999999"
+         fill="none"
+         stroke-width="1"
+         display="none"
+         id="circle125" />
+      <path
+         d="m 768,-665 -3,-3 -3,3"
+         fill="none"
+         stroke="#999999"
+         stroke-width="1"
+         display="none"
+         id="path125" />
+    </g>
+    <g
+       c_partid="part_pin"
+       c_etype="pinpart"
+       c_show="show"
+       c_elec="1"
+       c_spicepin="3"
+       c_origin="765,-695"
+       id="gge4082"
+       c_rotation="90">
+      <path
+         d="m 765,-695 v 10"
+         fill="none"
+         stroke="#999999"
+         stroke-width="1"
+         id="path126" />
+      <text
+         x="768"
+         y="-680"
+         font-family="Verdana"
+         font-size="9.33333px"
+         fill="#999999"
+         text-anchor="end"
+         display="none"
+         transform="rotate(-90,768,-680)"
+         id="text126">C</text>
+      <text
+         x="764"
+         y="-685"
+         font-family="Verdana"
+         font-size="9.33333px"
+         fill="#999999"
+         text-anchor="start"
+         display="none"
+         transform="rotate(-90,764,-685)"
+         id="text127">3</text>
+      <circle
+         cx="765"
+         cy="-688"
+         r="3"
+         stroke="#999999"
+         fill="none"
+         stroke-width="1"
+         display="none"
+         id="circle127" />
+      <path
+         d="m 762,-685 3,3 3,-3"
+         fill="none"
+         stroke="#999999"
+         stroke-width="1"
+         display="none"
+         id="path127" />
+    </g>
+    <g
+       c_partid="part_pin"
+       c_etype="pinpart"
+       c_show="show"
+       c_elec="1"
+       c_spicepin="1"
+       c_origin="785,-675"
+       id="gge4103"
+       c_rotation="0">
+      <path
+         d="M 785,-675 H 775"
+         fill="none"
+         stroke="#999999"
+         stroke-width="1"
+         id="path128" />
+      <text
+         x="770"
+         y="-672"
+         font-family="Verdana"
+         font-size="9.33333px"
+         fill="#999999"
+         text-anchor="end"
+         display="none"
+         id="text128">B</text>
+      <text
+         x="775"
+         y="-676"
+         font-family="Verdana"
+         font-size="9.33333px"
+         fill="#999999"
+         text-anchor="start"
+         display="none"
+         id="text129">1</text>
+      <circle
+         cx="778"
+         cy="-675"
+         r="3"
+         stroke="#999999"
+         fill="none"
+         stroke-width="1"
+         display="none"
+         id="circle129" />
+      <path
+         d="m 775,-678 -3,3 3,3"
+         fill="none"
+         stroke="#999999"
+         stroke-width="1"
+         display="none"
+         id="path129" />
+    </g>
+  </g>
+  <polyline
+     c_etype="wire"
+     c_shapetype="line"
+     points="785 -640 785 -690"
+     stroke="#999999"
+     id="gge4133"
+     stroke-width="1"
+     fill="none"
+     stroke-linecap="round"
+     transform="translate(-550.42458,-53.252562)" />
+  <g
+     c_origin="785,-710"
+     c_para="package`R0603`Contributor`lcsc`nameAlias`Value`Supplier`LCSC`Supplier Part`C5123580`Manufacturer`Milliohm(毫欧)`Manufacturer Part`HoAR0603-1/10W-100R-0.1%-TCR25`JLCPCB Part Class`Extended Part`spicePre`U`spiceSymbolName`HOAR0603-1/10W-100R-0.1%-TCR25`"
+     c_partid="part_import_ggef26d03cce76c3a51"
+     id="ggef26d03cce76c3a51"
+     c_shapetype="group"
+     c_etype="pinpart"
+     c_rotation="90"
+     transform="translate(-550.42458,-53.252562)">
+    <g
+       c_partid="part_annotation"
+       id="gge5053">
+      <text
+         c_note="note_name"
+         x="805.48999"
+         y="-701.94"
+         fill="#999999"
+         font-family="Arial"
+         font-size="9.33333px"
+         font-weight=""
+         font-style=""
+         dominant-baseline=""
+         text-anchor="end"
+         id="text130">1K</text>
+    </g>
+    <g
+       c_partid="part_annotation"
+       id="gge5059">
+      <text
+         c_note="note_pre"
+         x="805.96002"
+         y="-711.94"
+         fill="#999999"
+         font-family="Arial"
+         font-size="9.33333px"
+         font-weight=""
+         font-style=""
+         dominant-baseline=""
+         text-anchor="end"
+         id="text131">R5</text>
+    </g>
+    <rect
+       id="gge5065"
+       x="780"
+       y="-720"
+       width="10"
+       height="20"
+       stroke="#999999"
+       stroke-width="1"
+       fill="none" />
+    <g
+       c_partid="part_pin"
+       c_etype="pinpart"
+       c_show="show"
+       c_elec="0"
+       c_spicepin="2"
+       c_origin="785,-730"
+       id="gge5068"
+       c_rotation="90">
+      <path
+         d="m 785,-720 v -10"
+         fill="none"
+         stroke="#999999"
+         stroke-width="1"
+         id="path131" />
+      <text
+         x="785"
+         y="-716"
+         font-family="Verdana"
+         font-size="9.33333px"
+         fill="#999999"
+         text-anchor="end"
+         display="none"
+         transform="rotate(-90,785,-716)"
+         id="text132">2</text>
+      <text
+         x="781"
+         y="-724"
+         font-family="Verdana"
+         font-size="9.33333px"
+         fill="#999999"
+         text-anchor="start"
+         display="none"
+         transform="rotate(-90,781,-724)"
+         id="text133">2</text>
+      <circle
+         cx="785"
+         cy="-743"
+         r="3"
+         stroke="#999999"
+         fill="none"
+         stroke-width="1"
+         display="none"
+         id="circle133" />
+      <path
+         d="m 782,-740 3,3 3,-3"
+         fill="none"
+         stroke="#999999"
+         stroke-width="1"
+         display="none"
+         id="path133" />
+    </g>
+    <g
+       c_partid="part_pin"
+       c_etype="pinpart"
+       c_show="show"
+       c_elec="0"
+       c_spicepin="1"
+       c_origin="785,-690"
+       id="gge5089"
+       c_rotation="270">
+      <path
+         d="m 785,-700 v 10"
+         fill="none"
+         stroke="#999999"
+         stroke-width="1"
+         id="path134" />
+      <text
+         x="785"
+         y="-704"
+         font-family="Verdana"
+         font-size="9.33333px"
+         fill="#999999"
+         text-anchor="start"
+         display="none"
+         transform="rotate(-90,785,-704)"
+         id="text134">1</text>
+      <text
+         x="781"
+         y="-696"
+         font-family="Verdana"
+         font-size="9.33333px"
+         fill="#999999"
+         text-anchor="end"
+         display="none"
+         transform="rotate(-90,781,-696)"
+         id="text135">1</text>
+      <circle
+         cx="785"
+         cy="-677"
+         r="3"
+         stroke="#999999"
+         fill="none"
+         stroke-width="1"
+         display="none"
+         id="circle135" />
+      <path
+         d="m 788,-680 -3,-3 -3,3"
+         fill="none"
+         stroke="#999999"
+         stroke-width="1"
+         display="none"
+         id="path135" />
+    </g>
+  </g>
+  <g
+     c_partid="part_annotation"
+     id="gge5053-3"
+     transform="rotate(90,450.71854,-1107.2989)">
+    <text
+       c_note="note_name"
+       x="716.39142"
+       y="776.96039"
+       fill="#999999"
+       font-family="Arial"
+       font-size="9.33333px"
+       font-weight=""
+       font-style=""
+       dominant-baseline=""
+       text-anchor="end"
+       id="text130-5"
+       transform="rotate(-90)">300R</text>
+  </g>
+  <g
+     c_partid="part_annotation"
+     id="gge5053-3-3"
+     transform="rotate(90,419.27735,-1133.6964)">
+    <text
+       c_note="note_name"
+       x="729.32501"
+       y="776.96039"
+       fill="#999999"
+       font-family="Arial"
+       font-size="9.33333px"
+       font-weight=""
+       font-style=""
+       dominant-baseline=""
+       text-anchor="end"
+       id="text130-5-4"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="729.32501"
+         y="776.96039"
+         style="text-align:center;text-anchor:middle">ШИМ</tspan><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         x="729.32501"
+         y="788.62708"
+         style="text-align:center;text-anchor:middle">ои МК</tspan></text>
+  </g>
+  <g
+     c_partid="part_annotation"
+     id="gge5059-1"
+     transform="translate(-751.49138,-79.367012)">
+    <text
+       c_note="note_pre"
+       x="805.96002"
+       y="-711.94"
+       fill="#999999"
+       font-family="Arial"
+       font-size="9.33333px"
+       font-weight=""
+       font-style=""
+       dominant-baseline=""
+       text-anchor="end"
+       id="text131-2">R2</text>
+  </g>
+  <rect
+     id="gge5065-3"
+     x="-778.68237"
+     y="-58.584549"
+     width="10"
+     height="20"
+     stroke="#999999"
+     stroke-width="1"
+     fill="none"
+     style="shape-rendering:crispEdges"
+     transform="rotate(90)" />
+  <g
+     c_partid="part_pin"
+     c_etype="pinpart"
+     c_show="show"
+     c_elec="0"
+     c_spicepin="2"
+     c_origin="785,-730"
+     id="gge5068-1"
+     c_rotation="90"
+     transform="matrix(0,1,-2.5309286,0,-1763.684,-1558.6824)">
+    <path
+       d="m 785,-720 v -10"
+       fill="none"
+       stroke="#999999"
+       stroke-width="1"
+       id="path131-6"
+       style="stroke-linejoin:round;shape-rendering:crispEdges" />
+    <text
+       x="785"
+       y="-716"
+       font-family="Verdana"
+       font-size="9.33333px"
+       fill="#999999"
+       text-anchor="end"
+       display="none"
+       transform="rotate(-90,785,-716)"
+       id="text132-6">2</text>
+    <text
+       x="781"
+       y="-724"
+       font-family="Verdana"
+       font-size="9.33333px"
+       fill="#999999"
+       text-anchor="start"
+       display="none"
+       transform="rotate(-90,781,-724)"
+       id="text133-2">2</text>
+    <circle
+       cx="785"
+       cy="-743"
+       r="3"
+       stroke="#999999"
+       fill="none"
+       stroke-width="1"
+       display="none"
+       id="circle133-5"
+       style="shape-rendering:crispEdges" />
+    <path
+       d="m 782,-740 3,3 3,-3"
+       fill="none"
+       stroke="#999999"
+       stroke-width="1"
+       display="none"
+       id="path133-4"
+       style="stroke-linejoin:round;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pin"
+     c_etype="pinpart"
+     c_show="show"
+     c_elec="0"
+     c_spicepin="1"
+     c_origin="785,-690"
+     id="gge5089-5"
+     c_rotation="270"
+     transform="rotate(90,448.49393,-1109.9493)">
+    <path
+       d="m 784.76079,-700.03987 v 10"
+       fill="none"
+       stroke="#999999"
+       stroke-width="1"
+       id="path134-0"
+       style="stroke-linejoin:round;shape-rendering:crispEdges" />
+    <text
+       x="785"
+       y="-704"
+       font-family="Verdana"
+       font-size="9.33333px"
+       fill="#999999"
+       text-anchor="start"
+       display="none"
+       transform="rotate(-90,785,-704)"
+       id="text134-6">1</text>
+    <text
+       x="781"
+       y="-696"
+       font-family="Verdana"
+       font-size="9.33333px"
+       fill="#999999"
+       text-anchor="end"
+       display="none"
+       transform="rotate(-90,781,-696)"
+       id="text135-7">1</text>
+    <circle
+       cx="785"
+       cy="-677"
+       r="3"
+       stroke="#999999"
+       fill="none"
+       stroke-width="1"
+       display="none"
+       id="circle135-2"
+       style="shape-rendering:crispEdges" />
+    <path
+       d="m 788,-680 -3,-3 -3,3"
+       fill="none"
+       stroke="#999999"
+       stroke-width="1"
+       display="none"
+       id="path135-2"
+       style="stroke-linejoin:round;shape-rendering:crispEdges" />
+  </g>
+  <polyline
+     c_etype="wire"
+     c_shapetype="line"
+     points="785 -690 785 -675"
+     stroke="#999999"
+     id="gge5114"
+     stroke-width="1"
+     fill="none"
+     stroke-linecap="round"
+     transform="translate(-550.42458,-53.252562)" />
+  <g
+     c_partid="part_netLabel_+5V"
+     c_etype="pinpart"
+     c_origin="760,-740"
+     id="gge5121"
+     c_shapetype="group"
+     c_rotation="0"
+     transform="translate(-645.41233,106.49216)">
+    <text
+       x="770"
+       y="-752"
+       font-family="'Times New Roman'"
+       font-size="12px"
+       fill="#999999"
+       text-anchor="end"
+       id="text136">+5V</text>
+    <polyline
+       points="760 -750 760 -740"
+       stroke="#999999"
+       id="gge5133"
+       stroke-width="1"
+       fill="none"
+       stroke-linecap="round" />
+    <polyline
+       points="765 -750 755 -750"
+       stroke="#999999"
+       id="gge5136"
+       stroke-width="1"
+       fill="none"
+       stroke-linecap="round" />
+  </g>
+  <g
+     c_origin="735,-720"
+     c_para="package`LED-TH_BD3.0_BLUE`Manufacturer`EVERLIGHT(台湾亿光)`Manufacturer Part`204-10SUBC/S400-A4`Supplier Part`C86881`Supplier`LCSC`link``Contributor`LCEDA_Lib`spicePre`L`spiceSymbolName`LED-TH-3mm_B`"
+     c_partid="part_import_ggee7148ca84bf12ad7"
+     id="ggee7148ca84bf12ad7"
+     c_shapetype="group"
+     c_etype="pinpart"
+     c_rotation="90"
+     transform="translate(-550.42458,-53.252562)">
+    <g
+       c_partid="part_annotation"
+       id="gge5232">
+      <text
+         c_note="note_name"
+         x="725"
+         y="-707.71997"
+         fill="#999999"
+         font-family="Arial"
+         font-size="9.33333px"
+         font-weight=""
+         font-style=""
+         dominant-baseline=""
+         text-anchor="end"
+         id="text137">Laser</text>
+    </g>
+    <g
+       c_partid="part_annotation"
+       id="gge5238">
+      <text
+         c_note="note_pre"
+         x="725"
+         y="-716.94"
+         fill="#999999"
+         font-family="Arial"
+         font-size="9.33333px"
+         font-weight=""
+         font-style=""
+         dominant-baseline=""
+         text-anchor="end"
+         id="text138">LED1</text>
+    </g>
+    <g
+       c_partid="part_pin"
+       c_etype="pinpart"
+       c_show="show"
+       c_elec="0"
+       c_spicepin="2"
+       c_origin="735,-740"
+       id="gge5244"
+       c_rotation="90">
+      <path
+         d="m 735,-740 v 15"
+         fill="none"
+         stroke="#999999"
+         stroke-width="1"
+         id="path138" />
+      <text
+         x="738"
+         y="-723"
+         font-family="Verdana"
+         font-size="9.33333px"
+         fill="#999999"
+         text-anchor="end"
+         display="none"
+         transform="rotate(-90,738,-723)"
+         id="text139">2</text>
+      <text
+         x="734"
+         y="-727"
+         font-family="Verdana"
+         font-size="9.33333px"
+         fill="#999999"
+         text-anchor="start"
+         display="none"
+         transform="rotate(-90,734,-727)"
+         id="text140">2</text>
+      <circle
+         cx="735"
+         cy="-728"
+         r="3"
+         stroke="#999999"
+         fill="none"
+         stroke-width="1"
+         display="none"
+         id="circle140" />
+      <path
+         d="m 732,-725 3,3 3,-3"
+         fill="none"
+         stroke="#999999"
+         stroke-width="1"
+         display="none"
+         id="path140" />
+    </g>
+    <g
+       c_partid="part_pin"
+       c_etype="pinpart"
+       c_show="show"
+       c_elec="0"
+       c_spicepin="1"
+       c_origin="735,-700"
+       id="gge5265"
+       c_rotation="270">
+      <path
+         d="m 735,-700 v -15"
+         fill="none"
+         stroke="#999999"
+         stroke-width="1"
+         id="path141" />
+      <text
+         x="738"
+         y="-717"
+         font-family="Verdana"
+         font-size="9.33333px"
+         fill="#999999"
+         text-anchor="start"
+         display="none"
+         transform="rotate(-90,738,-717)"
+         id="text141">1</text>
+      <text
+         x="734"
+         y="-713"
+         font-family="Verdana"
+         font-size="9.33333px"
+         fill="#999999"
+         text-anchor="end"
+         display="none"
+         transform="rotate(-90,734,-713)"
+         id="text142">1</text>
+      <circle
+         cx="735"
+         cy="-712"
+         r="3"
+         stroke="#999999"
+         fill="none"
+         stroke-width="1"
+         display="none"
+         id="circle142" />
+      <path
+         d="m 738,-715 -3,-3 -3,3"
+         fill="none"
+         stroke="#999999"
+         stroke-width="1"
+         display="none"
+         id="path142" />
+    </g>
+    <path
+       d="m 748,-736 -2,4 -2,-2 z"
+       id="gge5286"
+       stroke="#999999"
+       stroke-width="1"
+       fill="#666666" />
+    <path
+       d="m 752,-732 -2,4 -2,-2 z"
+       id="gge5289"
+       stroke="#999999"
+       stroke-width="1"
+       fill="#666666" />
+    <polyline
+       points="741 -729 745 -733"
+       stroke="#999999"
+       id="gge5292"
+       stroke-width="1"
+       fill="#666666"
+       stroke-linecap="round" />
+    <polyline
+       points="745 -725 749 -729"
+       stroke="#999999"
+       id="gge5295"
+       stroke-width="1"
+       fill="#666666"
+       stroke-linecap="round" />
+    <polyline
+       points="743 -725 727 -725"
+       stroke="#999999"
+       id="gge5298"
+       stroke-width="1"
+       fill="#666666"
+       stroke-linecap="round" />
+    <path
+       d="m 729,-715 6,-10 7,10 z"
+       id="gge5301"
+       stroke="#999999"
+       stroke-width="1"
+       fill="#666666" />
+  </g>
+  <polyline
+     c_etype="wire"
+     c_shapetype="line"
+     points="735 -740 785 -740 785 -730"
+     stroke="#999999"
+     id="gge5382"
+     stroke-width="1"
+     fill="none"
+     stroke-linecap="round"
+     transform="translate(-550.42458,-53.252562)" />
+  <polyline
+     c_etype="wire"
+     c_shapetype="line"
+     points="735 -700 735 -695 765 -695"
+     stroke="#999999"
+     id="gge5385"
+     stroke-width="1"
+     fill="none"
+     stroke-linecap="round"
+     transform="translate(-550.42458,-53.252562)" />
+  <g
+     c_partid="part_junction"
+     c_etype="pinpart"
+     c_origin="735,-580"
+     id="gge4018"
+     c_shapetype="group"
+     transform="translate(-550.42458,-53.252562)">
+    <circle
+       cx="735"
+       cy="-580"
+       r="2.5"
+       fill="#999999"
+       stroke-width="1"
+       id="circle160" />
+  </g>
+  <g
+     c_partid="part_junction"
+     c_etype="pinpart"
+     c_origin="735,-620"
+     id="gge4137"
+     c_shapetype="group"
+     transform="translate(-550.42458,-53.252562)">
+    <circle
+       cx="735"
+       cy="-620"
+       r="2.5"
+       fill="#999999"
+       stroke-width="1"
+       id="circle164" />
+  </g>
+  <g
+     c_partid="part_junction"
+     c_etype="pinpart"
+     c_origin="785,-675"
+     id="gge5108"
+     c_shapetype="group"
+     transform="translate(-550.42458,-53.252562)">
+    <circle
+       cx="785"
+       cy="-675"
+       r="2.5"
+       fill="#999999"
+       stroke-width="1"
+       id="circle166" />
+  </g>
+  <g
+     c_partid="part_junction"
+     c_etype="pinpart"
+     c_origin="785,-690"
+     id="gge5115"
+     c_shapetype="group"
+     transform="translate(-550.42458,-53.252562)">
+    <circle
+       cx="785"
+       cy="-690"
+       r="2.5"
+       fill="#999999"
+       stroke-width="1"
+       id="circle168" />
+  </g>
+  <g
+     c_partid="part_junction"
+     c_etype="pinpart"
+     c_origin="760,-740"
+     id="gge5386"
+     c_shapetype="group"
+     transform="translate(-550.42458,-53.252562)">
+    <circle
+       cx="760"
+       cy="-740"
+       r="2.5"
+       fill="#999999"
+       stroke-width="1"
+       id="circle170" />
+  </g>
+  <rect
+     style="fill:none;stroke:#ca304a;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;shape-rendering:crispEdges"
+     id="rect171"
+     width="149.5778"
+     height="191.09615"
+     x="-3.537415"
+     y="-809.32434" />
+</svg>
