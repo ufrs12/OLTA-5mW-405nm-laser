@@ -47,4 +47,11 @@ flowchart
  <img width="700px" src="src/pics/top.png" alt="qr"/>
 </p>
 
+К оставшейся схеме добавляем MOSFET NPN транзистор с logic level и пару резисторов. Я взял транзистор с VRM от убитой платы транзистор 7030AL. Получилось с огромным запасом.
+<p align="center">
+ <img width="500px" src="src/pics/top.png" alt="qr"/>
+</p>
+
+
+
 
