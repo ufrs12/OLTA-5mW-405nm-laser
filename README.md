@@ -49,7 +49,7 @@ flowchart
 
 К оставшейся схеме добавляем MOSFET NPN транзистор с logic level и пару резисторов. Я взял транзистор с VRM от убитой платы транзистор 7030AL. Получилось с огромным запасом.
 <p align="center">
- <img width="500px" src="src/pics/top.png" alt="qr"/>
+ <img width="500px" src="src/pics/scheme_final.svg" alt="qr"/>
 </p>
 
 
