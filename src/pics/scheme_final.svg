@@ -6,6 +6,10 @@
    version="1.1"
    id="svg170"
    sodipodi:docname="scheme_final.svg"
+   inkscape:export-filename="scheme_final.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -21,12 +25,24 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     showgrid="false" />
+     showgrid="false"
+     inkscape:zoom="2.7970414"
+     inkscape:cx="108.86503"
+     inkscape:cy="114.58536"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="gge5053-3-3" />
   <title
      id="title1" />
   <style
      type="text/css"
-     id="style1">&#10;#g1 circle.pindot {fill: none;stroke: none;}#g1 rect, #g1 circle, #g1 ellipse, #g1 polyline, #g1 line, #g1 polygon, #g1 path {shape-rendering: crispEdges;}path, polyline, polygon {stroke-linejoin:round;}&#10;rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges;}&#10;</style>
+     id="style1">
+#g1 circle.pindot {fill: none;stroke: none;}#g1 rect, #g1 circle, #g1 ellipse, #g1 polyline, #g1 line, #g1 polygon, #g1 path {shape-rendering: crispEdges;}path, polyline, polygon {stroke-linejoin:round;}
+rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges;}
+</style>
   <rect
      x="-10"
      y="-817"
@@ -1469,7 +1485,7 @@
          id="tspan2"
          x="729.32501"
          y="788.62708"
-         style="text-align:center;text-anchor:middle">ои МК</tspan></text>
+         style="text-align:center;text-anchor:middle">от МК</tspan></text>
   </g>
   <g
      c_partid="part_annotation"
